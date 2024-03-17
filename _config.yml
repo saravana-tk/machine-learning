@@ -1,0 +1,9 @@
+# Site settings
+title: Artificial Intelligence & Machine Learning
+author:
+  name: Saravana Thiagarajan K
+  email: saravana_tk@outlook.com
+description: "Blog about Artificial Intelligence & Machine Learning"
+
+# Build settings
+remote_theme: jekyll/minima
